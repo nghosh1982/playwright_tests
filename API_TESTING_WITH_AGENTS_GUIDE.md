@@ -1337,8 +1337,8 @@ Using Playwright Test Planner, Generator, and Healer agents provides:
 
 ## Document Version
 
-- **Version**: 1.0
-- **Last Updated**: 2024-01-15
+- **Version**: 1.00
+- **Last Updated**: 2026-09-01
 - **Author**: Playwright Test Agents Guide
 - **License**: GPL-3.0
 
